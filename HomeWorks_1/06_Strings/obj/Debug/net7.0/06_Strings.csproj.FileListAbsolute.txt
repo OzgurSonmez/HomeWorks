@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\bin\Debug\net7.0\06_Strings.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\bin\Debug\net7.0\06_Strings.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\bin\Debug\net7.0\06_Strings.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\bin\Debug\net7.0\06_Strings.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\bin\Debug\net7.0\06_Strings.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\06_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\06_Strings.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\06_Strings.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\06_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\06_Strings.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\refint\06_Strings.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\06_Strings.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\06_Strings.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\06_Strings\obj\Debug\net7.0\ref\06_Strings.dll

@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\bin\Debug\net7.0\04_Arrays.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\bin\Debug\net7.0\04_Arrays.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\bin\Debug\net7.0\04_Arrays.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\bin\Debug\net7.0\04_Arrays.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\bin\Debug\net7.0\04_Arrays.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\04_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\04_Arrays.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\04_Arrays.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\04_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\04_Arrays.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\refint\04_Arrays.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\04_Arrays.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\04_Arrays.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\04_Arrays\obj\Debug\net7.0\ref\04_Arrays.dll

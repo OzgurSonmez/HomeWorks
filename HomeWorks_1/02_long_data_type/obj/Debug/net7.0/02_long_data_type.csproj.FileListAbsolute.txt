@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\bin\Debug\net7.0\02_long_data_type.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\bin\Debug\net7.0\02_long_data_type.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\bin\Debug\net7.0\02_long_data_type.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\bin\Debug\net7.0\02_long_data_type.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\bin\Debug\net7.0\02_long_data_type.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\02_long_data_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\02_long_data_type.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\02_long_data_type.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\02_long_data_type.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\02_long_data_type.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\refint\02_long_data_type.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\02_long_data_type.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\02_long_data_type.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\02_long_data_type\obj\Debug\net7.0\ref\02_long_data_type.dll

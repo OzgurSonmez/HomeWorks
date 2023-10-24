@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\bin\Debug\net7.0\05_Loops.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\bin\Debug\net7.0\05_Loops.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\bin\Debug\net7.0\05_Loops.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\bin\Debug\net7.0\05_Loops.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\bin\Debug\net7.0\05_Loops.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\05_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\05_Loops.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\05_Loops.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\05_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\05_Loops.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\refint\05_Loops.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\05_Loops.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\05_Loops.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\05_Loops\obj\Debug\net7.0\ref\05_Loops.dll

@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=mPvUodG55yc&list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD&index=2
+Bu oynatma listesindeki videoları 37-48 aralığında izleyip uygulayınız. Kodlarınızı githubda paylaşınız. Github linkinizi hem bu platformda bir dosya ile ödeve ekleyiniz hem de discord sunuzunuzda size ait ödev kanalında paylaşınız.

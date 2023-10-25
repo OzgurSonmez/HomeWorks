@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\bin\Debug\net7.0\11_Inheritance.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\bin\Debug\net7.0\11_Inheritance.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\bin\Debug\net7.0\11_Inheritance.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\bin\Debug\net7.0\11_Inheritance.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\bin\Debug\net7.0\11_Inheritance.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\11_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\11_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\11_Inheritance.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\11_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\11_Inheritance.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\refint\11_Inheritance.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\11_Inheritance.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\11_Inheritance.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\HomeWorks_1\11_Inheritance\obj\Debug\net7.0\ref\11_Inheritance.dll

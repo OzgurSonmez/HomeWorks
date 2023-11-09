@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\bin\Debug\net7.0\12_02_YGYK_Maths.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\bin\Debug\net7.0\12_02_YGYK_Maths.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\bin\Debug\net7.0\12_02_YGYK_Maths.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\bin\Debug\net7.0\12_02_YGYK_Maths.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\bin\Debug\net7.0\12_02_YGYK_Maths.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\12_02_YGYK_Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\12_02_YGYK_Maths.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\12_02_YGYK_Maths.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\12_02_YGYK_Maths.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\12_02_YGYK_Maths.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\refint\12_02_YGYK_Maths.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\12_02_YGYK_Maths.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\12_02_YGYK_Maths.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_02_YGYK_Maths\obj\Debug\net7.0\ref\12_02_YGYK_Maths.dll

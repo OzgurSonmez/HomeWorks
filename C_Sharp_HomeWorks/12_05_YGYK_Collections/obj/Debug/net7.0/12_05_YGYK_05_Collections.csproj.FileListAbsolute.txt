@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\bin\Debug\net7.0\12_05_YGYK_05_Collections.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\bin\Debug\net7.0\12_05_YGYK_05_Collections.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\bin\Debug\net7.0\12_05_YGYK_05_Collections.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\bin\Debug\net7.0\12_05_YGYK_05_Collections.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\bin\Debug\net7.0\12_05_YGYK_05_Collections.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\12_05_YGYK_05_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\12_05_YGYK_05_Collections.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\12_05_YGYK_05_Collections.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\12_05_YGYK_05_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\12_05_YGYK_05_Collections.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\refint\12_05_YGYK_05_Collections.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\12_05_YGYK_05_Collections.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\12_05_YGYK_05_Collections.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_05_YGYK_05_Collections\obj\Debug\net7.0\ref\12_05_YGYK_05_Collections.dll

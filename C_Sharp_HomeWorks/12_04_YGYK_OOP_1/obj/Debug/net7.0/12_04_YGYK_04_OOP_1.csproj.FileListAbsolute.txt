@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\bin\Debug\net7.0\12_04_YGYK_04_OOP_1.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\bin\Debug\net7.0\12_04_YGYK_04_OOP_1.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\bin\Debug\net7.0\12_04_YGYK_04_OOP_1.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\bin\Debug\net7.0\12_04_YGYK_04_OOP_1.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\bin\Debug\net7.0\12_04_YGYK_04_OOP_1.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\12_04_YGYK_04_OOP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\12_04_YGYK_04_OOP_1.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\12_04_YGYK_04_OOP_1.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\12_04_YGYK_04_OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\12_04_YGYK_04_OOP_1.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\refint\12_04_YGYK_04_OOP_1.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\12_04_YGYK_04_OOP_1.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\12_04_YGYK_04_OOP_1.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_04_YGYK_04_OOP_1\obj\Debug\net7.0\ref\12_04_YGYK_04_OOP_1.dll

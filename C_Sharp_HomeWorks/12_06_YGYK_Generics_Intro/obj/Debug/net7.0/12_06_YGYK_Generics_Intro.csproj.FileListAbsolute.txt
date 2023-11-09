@@ -1,0 +1,14 @@
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\bin\Debug\net7.0\12_06_YGYK_Generics_Intro.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\bin\Debug\net7.0\12_06_YGYK_Generics_Intro.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\bin\Debug\net7.0\12_06_YGYK_Generics_Intro.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\bin\Debug\net7.0\12_06_YGYK_Generics_Intro.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\bin\Debug\net7.0\12_06_YGYK_Generics_Intro.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\12_06_YGYK_Generics_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\12_06_YGYK_Generics_Intro.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\12_06_YGYK_Generics_Intro.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\12_06_YGYK_Generics_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\12_06_YGYK_Generics_Intro.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\refint\12_06_YGYK_Generics_Intro.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\12_06_YGYK_Generics_Intro.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\12_06_YGYK_Generics_Intro.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Csharp_Workspaces\Homeworks\C_Sharp_HomeWorks\12_06_YGYK_Generics_Intro\obj\Debug\net7.0\ref\12_06_YGYK_Generics_Intro.dll

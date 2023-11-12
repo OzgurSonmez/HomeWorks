@@ -11,8 +11,8 @@ ICreditManager vehicleCreditManager = new VehicleCreditManager();
 ICreditManager personalFinanceCreditManager = new PersonalFinanceCreditManager();
 ICreditManager merchantCreditManager = new MerchantCreditManager();
 
-ILoggerService databaseLoggerService = new DatabaseLoggerService();
-ILoggerService loggerService = new FileLoggerService();
+//ILoggerService databaseLoggerService = new DatabaseLoggerService();
+//ILoggerService loggerService = new FileLoggerService();
 
 List<ILoggerService> loggerServices1 = new List<ILoggerService>()
 {

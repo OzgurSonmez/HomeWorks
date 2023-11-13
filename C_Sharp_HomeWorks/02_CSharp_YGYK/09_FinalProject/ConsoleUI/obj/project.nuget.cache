@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hItsfYJ8qhrEOWiBiVpfKSft45wlGg+aEwPsH20yWXy0aSA3q8e/W3i2QlfTGh7HhFSU2+1VzOBWwi7lpPW1Q==",
+  "dgSpecHash": "OI51LPSmK8oKXnnPesAPLLuouovyqZZ/fbXZPd1bXkx3ouHxtwu4H2YoPIe8Q6ITV5LYQ8RCLgQt/ohG4wGsqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ozgur\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ozgur\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

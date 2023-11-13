@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ROPkAIWB4wDDikQXLpCyCCaRwQVPiy5YxReffsjr0Y84Gl8r3ERHmTC05hJJdiSfQSk1ntmlutvvF5nr71fYlg==",
+  "dgSpecHash": "IYduJxFTqCrGkmPj0ATHZahuTxvYnUBQW16gKyAEDf0J2UT39mNA79rrVij5wo+GkLU79QkJHCORgHWWFx/drA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ozgur\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ozgur\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

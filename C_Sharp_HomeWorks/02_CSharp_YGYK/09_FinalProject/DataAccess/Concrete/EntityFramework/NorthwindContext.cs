@@ -16,7 +16,7 @@ namespace DataAccess.Concrete.EntityFramework
         {
             //Bu method projenin hangi veritabanı ile ilişkili olduğunu belirler
             //"override on" yazınca gelir
-            optionsBuilder.UseSqlServer(@"Server=(DESKTOP-MKBD3B2);Database=Northwind;Trusted_Connection=true"); // SQL server kullanılacağını belirtir ve database seçimi yapılır."Trusted_Connection=true" ile şifre istenmedi. 
+            optionsBuilder.UseSqlServer(@"Server=localhost;Database=Northwind;Trusted_Connection=true;TrustServerCertificate=True"); // SQL server kullanılacağını belirtir ve database seçimi yapılır."Trusted_Connection=true" ile şifre istenmedi. 
             
         }
         

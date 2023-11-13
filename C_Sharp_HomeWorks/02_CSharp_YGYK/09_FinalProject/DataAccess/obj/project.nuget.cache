@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Zjl7crYXGCGydYlOxZLPxTiFMk+kUaaqQBV3CmOUIthnzxujql67mD3frVMbrBtuvkM0goydqdLxwQqKtmSgg==",
+  "dgSpecHash": "lUtO3PemaHc+cnATfKyObVCCNze0OxbohWBVUW51Ihp35nXia48Ws7W+ABYf7e1+ocFqlqIjkp9lCGOueAntUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ozgur\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ozgur\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

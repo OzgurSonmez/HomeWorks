@@ -2639,11 +2639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Ozgur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2664,8 +2664,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Tekrar_Uygulamalari\\09_FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ozgur\\Desktop\\istanbul kodluyor\\Mesleki_Gelisim\\Csharp_Workspaces\\Homeworks\\C_Sharp_HomeWorks\\02_CSharp_YGYK\\09_FinalProject\\Entities\\Entities.csproj"
             }
           }
         }

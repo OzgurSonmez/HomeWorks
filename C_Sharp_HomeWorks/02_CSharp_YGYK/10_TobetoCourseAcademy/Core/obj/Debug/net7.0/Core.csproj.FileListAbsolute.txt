@@ -1,0 +1,84 @@
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/bin/Debug/net7.0/Core.deps.json
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/bin/Debug/net7.0/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/bin/Debug/net7.0/Core.pdb
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/refint/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/Core.pdb
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Core/obj/Debug/net7.0/ref/Core.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/bin/Debug/net7.0/Core.deps.json
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/bin/Debug/net7.0/Core.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/bin/Debug/net7.0/Core.pdb
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/Core.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/Core.pdb
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Core/obj/Debug/net7.0/ref/Core.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.deps.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/refint/Core.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/Core/obj/Debug/net7.0/ref/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.deps.json
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.pdb
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/refint/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.pdb
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy/Core/obj/Debug/net7.0/ref/Core.dll
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.deps.json
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.dll
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.pdb
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.dll
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/refint/Core.dll
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.pdb
+C:/Users/shaza/Downloads/TobetoCourseAcademyxx/TobetoCourseAcademy/Core/obj/Debug/net7.0/ref/Core.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.deps.json
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/bin/Debug/net7.0/Core.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/Core.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/Core/obj/Debug/net7.0/ref/Core.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\Core\obj\Debug\net7.0\ref\Core.dll

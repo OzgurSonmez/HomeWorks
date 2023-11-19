@@ -1,0 +1,71 @@
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/bin/Debug/net7.0/Entitites.deps.json
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/bin/Debug/net7.0/Entitites.dll
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/bin/Debug/net7.0/Entitites.pdb
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/Entitites.AssemblyInfoInputs.cache
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/Entitites.AssemblyInfo.cs
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/Entitites.csproj.CoreCompileInputs.cache
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/Entitites.dll
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/refint/Entitites.dll
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/Entitites.pdb
+C:/Users/Gokce/Desktop/TOBETO/1B/csharp/TobetoCourseAcademy/Entitites/obj/Debug/net7.0/ref/Entitites.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/bin/Debug/net7.0/Entitites.deps.json
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/bin/Debug/net7.0/Entitites.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/bin/Debug/net7.0/Entitites.pdb
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/bin/Debug/net7.0/Core.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/bin/Debug/net7.0/Core.pdb
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.csproj.AssemblyReference.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.AssemblyInfoInputs.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.AssemblyInfo.cs
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.csproj.CoreCompileInputs.cache
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.csproj.CopyComplete
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/refint/Entitites.dll
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/Entitites.pdb
+C:/Users/Ozgur/Desktop/istanbul kodluyor/Mesleki_Gelisim/Canlı Dersler/13-11-2023/TobetoCourseAcademy-2/Entitites/obj/Debug/net7.0/ref/Entitites.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/bin/Debug/net7.0/Entitites.deps.json
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/bin/Debug/net7.0/Entitites.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/bin/Debug/net7.0/Entitites.pdb
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/bin/Debug/net7.0/Core.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/bin/Debug/net7.0/Core.pdb
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.csproj.AssemblyReference.cache
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.AssemblyInfoInputs.cache
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.AssemblyInfo.cs
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.csproj.CoreCompileInputs.cache
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.csproj.CopyComplete
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/refint/Entitites.dll
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/Entitites.pdb
+/Users/ersin/Downloads/TobetoCourseAcademy-2-2/Entitites/obj/Debug/net7.0/ref/Entitites.dll
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Entitites.deps.json
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Entitites.dll
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Entitites.pdb
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Core.dll
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Core.pdb
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.csproj.AssemblyReference.cache
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.AssemblyInfo.cs
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.csproj.CopyComplete
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.dll
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\refint\Entitites.dll
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.pdb
+C:\Users\shaza\OneDrive\Masaüstü\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\ref\Entitites.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Entitites.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Entitites.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Entitites.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Core.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\bin\Debug\net7.0\Core.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.csproj.AssemblyReference.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.csproj.CopyComplete
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\refint\Entitites.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\Entitites.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\13-11-2023\TobetoCourseAcademy\Entitites\obj\Debug\net7.0\ref\Entitites.dll

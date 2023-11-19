@@ -1,0 +1,219 @@
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/appsettings.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.exe
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.deps.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.runtimeconfig.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.AssemblyInfoInputs.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.AssemblyInfo.cs
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.csproj.CoreCompileInputs.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.WebAPI.props
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebAPI.props
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebAPI.props
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/scopedcss/bundle/WebAPI.styles.css
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/refint/WebAPI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.genruntimeconfig.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/ref/WebAPI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Business.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Core.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/DataAccess.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Entities.dll
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Business.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Core.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/DataAccess.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Entities.pdb
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.csproj.AssemblyReference.cache
+C:/Users/shaza/OneDrive/Masaüstü/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.csproj.CopyComplete
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/appsettings.Development.json
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/appsettings.json
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.deps.json
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.runtimeconfig.json
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/WebAPI.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Azure.Core.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Business.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Core.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/DataAccess.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Entities.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Business.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Core.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/DataAccess.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Entities.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.csproj.AssemblyReference.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.AssemblyInfoInputs.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.AssemblyInfo.cs
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.csproj.CoreCompileInputs.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.WebAPI.props
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebAPI.props
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebAPI.props
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/scopedcss/bundle/WebAPI.styles.css
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.csproj.CopyComplete
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/refint/WebAPI.dll
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.pdb
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.genruntimeconfig.cache
+/Users/ersin/Desktop/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/ref/WebAPI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Business.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Core.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Entities.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Business.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Core.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\bin\Debug\net7.0\Entities.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\Ozgur\Desktop\istanbul kodluyor\Mesleki_Gelisim\Canlı Dersler\2023-11-17\TobetoCourseAcademy\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll

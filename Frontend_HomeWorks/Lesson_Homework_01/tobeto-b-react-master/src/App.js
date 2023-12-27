@@ -12,15 +12,14 @@ import AddProduct from "./pages/Products/AddProduct"
 // class => className
 export default function App() {
   return <>
-    <Navbar />
     <BrowserRouter>
+      <Navbar />
       <Routes>
         <Route path="/" element={<Homepage />}></Route>
         <Route path="/products" element={<Products />}></Route>
-        <Route path="*" element={<div>Not found</div>}></Route> 
-        <Route path='/products/:id' element={<ProductDetail/>}></Route>
-        <Route path='/addproduct' element={<AddProduct/>}></Route>    
-        
+        <Route path="*" element={<div>Not found</div>}></Route>
+        <Route path='/products/:id' element={<ProductDetail />}></Route>
+        <Route path='/addproduct' element={<AddProduct />}></Route>
       </Routes>
     </BrowserRouter>
   </>

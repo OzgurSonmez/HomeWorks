@@ -30,14 +30,7 @@ export default function Homepage() {
 
   return (
     <div>
-      <ul>
-        <li>
-          <Link to={"/products"}>Products</Link>
-        </li>
-        <li>
-          <Link to={"/addproduct"}>Add Product</Link>
-        </li>
-      </ul>
+
     </div>
   );
 }

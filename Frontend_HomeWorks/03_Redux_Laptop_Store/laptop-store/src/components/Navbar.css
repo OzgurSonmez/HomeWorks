@@ -1,0 +1,19 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: orange;
+}
+
+.cart-container {
+  display: flex;
+  align-items: center;
+}
+
+.cart-container span {
+  margin-left: 10px;
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 4px;
+  padding: 1px 2px;
+}
